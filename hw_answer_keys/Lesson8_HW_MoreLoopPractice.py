@@ -2,7 +2,7 @@
 
 number = 1
 
-while not ((number ** 3) % 1000 == 888):
+while not((number ** 3) % 1000 == 888):
     number += 1
 
 print("The number is " + str(number) + ".")
