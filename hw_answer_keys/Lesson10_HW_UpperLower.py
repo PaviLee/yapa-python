@@ -1,4 +1,5 @@
 # Question 1
+
 word = input("What is your word? ")
 
 if word.islower():
